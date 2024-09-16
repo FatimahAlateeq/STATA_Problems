@@ -14,11 +14,11 @@ codebook Fruit
 
 Result: Before:
 
-![](C:\Users\abdul\AppData\Roaming\marktext\images\2024-09-16-10-27-25-image.png)(screenshot1)
+![](Images/Screenshot_2024-09-16_102641.png)(screenshot1)
 
 After:
 
-![](C:\Users\abdul\AppData\Roaming\marktext\images\2024-09-16-10-28-23-image.png)(screenshot2)
+![](Images/Screenshot_2024-09-16_102745.png)(screenshot2)
 
 #### Encoding
 
@@ -81,7 +81,7 @@ Check codebook of `Fruit` variable before encoding:
 codebook Fruit // check before
 ```
 
-![](C:\Users\abdul\AppData\Roaming\marktext\images\2024-09-16-10-28-23-image.png)(screenshot2)
+![](Images/Screenshot_2024-09-16_102745.png)(screenshot2)
 
 Encoding all variables using loop:
 
@@ -97,7 +97,7 @@ foreach v of local string_vars { // loop starts
 codebook Fruit // check after
 ```
 
-![](C:\Users\abdul\AppData\Roaming\marktext\images\2024-09-16-10-33-42-image.png)(screenshot3)
+![](Images/Screenshot_2024-09-16_103247.png)(screenshot3)
 
 
 
