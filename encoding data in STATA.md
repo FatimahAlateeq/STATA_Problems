@@ -1,3 +1,4 @@
+STATA version 15.0
 ### Code Idea
 
 ##### Optional step: general cleaning:
